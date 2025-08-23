@@ -1,5 +1,5 @@
 import { useAuth } from "./AuthContext";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Entrance from "./Entrance";
 import Tablet from "./Tablet";
 import Tunnel from "./Tunnel";
