@@ -24,7 +24,6 @@ export function AuthProvider({ children }) {
     }
   };
 
-  // TODO: authenticate
   const authenticate = async () => {
     try {
       const res = await fetch(
